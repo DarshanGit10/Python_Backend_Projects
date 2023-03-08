@@ -1,3 +1,6 @@
+#"Happy to share my Tic Tac Toe mini project on GitHub using Python. It's a small project, 
+#but it demonstrates how to use Python to implement game logic and create a simple user interface."
+
 #Method to print Board
 def print_ttt(values):
     print("\n")
