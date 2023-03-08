@@ -1,5 +1,4 @@
 
-Database: PyMySQL 
-
-Connect the database and run the code
+It's a small project, but it demonstrates how to use Python to connect to a MySQL database, 
+perform basic CRUD operations, and display the results in a Tkinter window.
 
